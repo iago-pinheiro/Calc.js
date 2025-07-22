@@ -57,7 +57,7 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes c
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Iago Pinheiro** durante o curso da [OneBitCode](https://onebitcode.com/){:target="_blank"} - Módulo JavaScript III
+Desenvolvido por **Iago Pinheiro** durante o curso da [OneBitCode](https://onebitcode.com/) - Módulo JavaScript III
 
 ---
 
